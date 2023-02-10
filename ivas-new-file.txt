@@ -1,0 +1,2 @@
+I am creating my new file here.
+The time difference between Paris and Boston is 6 hours. Sometimes 5 hours when we change to daylight savings time.
